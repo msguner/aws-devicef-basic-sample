@@ -1,0 +1,35 @@
+# ---- Sonar
+.sonar
+
+# ---- Eclipse
+.classpath
+.project
+.settings
+
+# ---- IntelliJ IDEA
+*.iws
+*.iml
+*.ipr
+.idea
+
+# Log file
+*.log
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# ---- Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Maven
+target/
+/bin/
